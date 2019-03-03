@@ -1,0 +1,7 @@
+--first create one directory named 'FILES' in C drive 
+@https://github.com/ganeshw0/CUST_ORDER_PROJECT/DIR_create DDL.sql;
+@https://github.com/ganeshw0/CUST_ORDER_PROJECT/PRODUCT_ORDER_DDL.sql
+@https://github.com/ganeshw0/CUST_ORDER_PROJECT/DML_TRIGGERS.sql;
+@https://github.com/ganeshw0/CUST_ORDER_PROJECT/insert.sql;
+@https://github.com/ganeshw0/CUST_ORDER_PROJECT/Order_management.pks;
+@https://github.com/ganeshw0/CUST_ORDER_PROJECT/order_management.pkb;
